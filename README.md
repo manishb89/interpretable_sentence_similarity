@@ -4,10 +4,19 @@ Implementation of our IJCAI 20 paper on Logic Constrained Pointer Networks for I
 
 ## Citation
 ```
-@article{maji2020logic,
-  title={Logic Constrained Pointer Networks for Interpretable Textual Similarity},
-  author={Maji*, Subhadeep and Kumar*, Rohan and Bansal, Manish and Roy, Kalyani and Goyal, Pawan},
-  year={2020},
+@inproceedings{ijcai2020-333,
+  title     = {Logic Constrained Pointer Networks for Interpretable Textual Similarity},
+  author    = {Maji, Subhadeep and Kumar, Rohan and Bansal, Manish and Roy, Kalyani and Goyal, Pawan},
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI-20}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  editor    = {Christian Bessiere}	
+  pages     = {2405--2411},
+  year      = {2020},
+  month     = {7},
+  note      = {Main track}
+  doi       = {10.24963/ijcai.2020/333},
+  url       = {https://doi.org/10.24963/ijcai.2020/333},
 }
 ```
 
